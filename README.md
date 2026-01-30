@@ -1,4 +1,4 @@
-# New Super Mario Forever 2012: Slightly-Fixed Edition
+# Slightly edited New Super Mario Forever 2012: Slightly-Fixed Edition...
 
 ![Logo](./src/nsmfsfe.png)
 
